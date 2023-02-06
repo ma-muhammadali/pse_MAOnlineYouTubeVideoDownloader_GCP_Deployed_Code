@@ -38,7 +38,7 @@ The user will be shown a friendly and polite error message if the URL is not val
 
 ## How to Download
 
-Download this project from here [Download MA Online YouTube Video Downloader Google Cloud Platform Code]
+Download this project from here
 
 https://github.com/ma-muhammadali/pse_MAOnlineYouTubeVideoDownloader_GCP_Deployed_Code.git
 
